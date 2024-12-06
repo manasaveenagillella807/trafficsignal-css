@@ -1,0 +1,29 @@
+body{
+    padding-top: 100px;
+}
+#one{
+    background-color: black;
+    height: 300px;
+    width: 110px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    
+}
+#two{
+    height: 100px;
+    width:100px;
+    background-color: red;
+    border-radius: 50%;
+}
+#three{
+    height: 100px;
+    width:100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#four{
+    height: 100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+}
